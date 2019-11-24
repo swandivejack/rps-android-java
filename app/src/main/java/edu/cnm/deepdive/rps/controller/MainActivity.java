@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
   public boolean onPrepareOptionsMenu(Menu menu) {
     menu.findItem(R.id.run).setVisible(!running);
     menu.findItem(R.id.pause).setVisible(running);
-    menu.findItem(R.id.reset).setEnabled(!running);
+    menu.findItem(R.id.reset).setVisible(!running);
     return true;
   }
 
