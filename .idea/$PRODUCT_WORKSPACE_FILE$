@@ -4,11 +4,10 @@
     <states>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>JUnit5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.36976743" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -16,11 +15,11 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>13</last-edited>
+          <last-edited>Android API 28 Platform</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.36976743" />
+                <option value="0.37471265" />
               </list>
             </option>
           </splitter-proportions>
@@ -43,7 +42,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.36976743" />
+                <option value="0.37471265" />
               </list>
             </option>
           </splitter-proportions>
